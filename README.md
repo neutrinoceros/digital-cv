@@ -48,6 +48,7 @@ since I joined GitHub. Here's a selected sample
   [`matplotlib`](https://github.com/matplotlib/matplotlib/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Aneutrinoceros+is%3Aclosed),
   [`numpy`](https://github.com/numpy/numpy/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Aneutrinoceros+is%3Aclosed),
   [`astropy`](https://github.com/astropy/astropy/pulls?q=is%3Apr+sort%3Aupdated-desc+is%3Amerged+author%3Aneutrinoceros),
+  [`cartopy`](https://github.com/SciTools/cartopy/pulls?q=is%3Apr+sort%3Aupdated-desc+is%3Amerged+author%3Aneutrinoceros),
   [`sympy`](https://github.com/sympy/sympy/pulls?q=is%3Apr+sort%3Aupdated-desc+is%3Amerged+author%3Aneutrinoceros),
   [`h5py`](https://github.com/h5py/h5py/pulls?q=is%3Apr+sort%3Aupdated-desc+is%3Amerged+author%3Aneutrinoceros),
   [`pyupgrade`](https://github.com/asottile/pyupgrade/pulls?q=is%3Apr+sort%3Aupdated-desc+is%3Amerged+author%3Aneutrinoceros)
