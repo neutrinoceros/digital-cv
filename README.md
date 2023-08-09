@@ -14,13 +14,12 @@ the various parts of its ecosystem ([`unyt`](https://github.com/yt-project/unyt)
 [`cmyt`](https://github.com/yt-project/cmyt),
 [`ewah_bool_utils`](https://github.com/yt-project/ewah_bool_utils)) since 2019.
 
-Within this organization, I collaborate
-with many different actors (co-maintainers, users, developers of dependencies and
-dependencies, ...). `yt` integrates and inter-operates with many other popular libraries in
-Python's scientific landspace (most proeminently `numpy` and `matplotlib`, but also
-`h5py`, `astropy`, ...). Maintaining this complex compatibility network gave me the
-opportunity to collaborate (report, discuss, and fix problems) with most of these
-actors.
+Within this organization, I collaborate with many different actors (co-maintainers,
+users, developers of dependencies and dependent code, ...). `yt` integrates and
+inter-operates with many other popular libraries in Python's scientific landspace (most
+proeminently `numpy` and `matplotlib`, but also `h5py`, `astropy`, ...). Maintaining
+this complex compatibility network gave me the opportunity to collaborate (report,
+discuss, and fix problems) with most of these actors.
 
 In addition to contributing features and bug fixes, I volunteer my time to improve and
 maintain the health of the project via
