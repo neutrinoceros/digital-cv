@@ -12,7 +12,7 @@ I am a volonteer co-maintainer of [the `yt` Python library](https://yt-project.o
 the various parts of its ecosystem ([`unyt`](https://github.com/yt-project/unyt),
 [`yt_astro_analysis`](https://github.com/yt-project/yt_astro_analysis),
 [`cmyt`](https://github.com/yt-project/cmyt),
-[`ewah_bool_utils`](https://github.com/yt-project/ewah_bool_utils)) since 2019. 
+[`ewah_bool_utils`](https://github.com/yt-project/ewah_bool_utils)) since 2019.
 
 Within this organization, I collaborate
 with many different actors (co-maintainers, users, developers of dependencies and
