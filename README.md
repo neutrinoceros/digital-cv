@@ -8,7 +8,7 @@ am an advocate for free open-source software.
 
 ## Experience in software development and maintenance
 
-I am a volonteer co-maintainer of [the `yt` Python library](https://yt-project.org) and
+I am a volunteer co-maintainer of [the `yt` Python library](https://yt-project.org) and
 the various parts of its ecosystem ([`unyt`](https://github.com/yt-project/unyt),
 [`yt_astro_analysis`](https://github.com/yt-project/yt_astro_analysis),
 [`cmyt`](https://github.com/yt-project/cmyt),
@@ -16,13 +16,13 @@ the various parts of its ecosystem ([`unyt`](https://github.com/yt-project/unyt)
 
 Within this organization, I collaborate
 with many different actors (co-maintainers, users, developers of dependencies and
-dependees, ...). `yt` integrates and inter-operates with many other popular libraries in
+dependencies, ...). `yt` integrates and inter-operates with many other popular libraries in
 Python's scientific landspace (most proeminently `numpy` and `matplotlib`, but also
 `h5py`, `astropy`, ...). Maintaining this complex compatibility network gave me the
 opportunity to collaborate (report, discuss, and fix problems) with most of these
 actors.
 
-In additon to contributing features and bug fixes, I volonteer my time to improve and
+In addition to contributing features and bug fixes, I volunteer my time to improve and
 maintain the health of the project via
 - build and testing infrastructures
 - packaging and distribution automation
