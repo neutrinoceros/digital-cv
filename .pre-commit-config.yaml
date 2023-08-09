@@ -16,3 +16,8 @@ repos:
   hooks:
   - id: pretty-format-yaml
     args: [--autofix, --indent, '2']
+
+- repo: https://github.com/crate-ci/typos
+  rev: v1.16.2
+  hooks:
+  - id: typos
