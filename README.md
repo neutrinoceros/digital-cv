@@ -56,7 +56,7 @@ since I joined GitHub. Here's a selected sample
   [`CPython`](https://github.com/python/cpython/pulls?q=is%3Apr+sort%3Aupdated-desc+is%3Amerged+author%3Aneutrinoceros).
 
 
-## Academic training
+## Academic experience
 
 ### Post-doc (2020-2023) (current position)
 I am currently employed as a contractual researcher at [IPAG](https://ipag.osug.fr),
@@ -88,14 +88,19 @@ conversion pipeline.
 In addition to the features I needed for my own research, I contributed to all codes I
 used with tests, automation, and bug fixes.
 
+### Bibliography
+The list of scientific publications, including my thesis, that I lead or contributed to,
+is maintained on [my orcid page
+(0000-0001-8629-7068)](https://orcid.org/0000-0001-8629-7068).
+
+## Education
+
 ### Master's: Astronomy and Astrophysics
 > Master d'Astronomie, Astrophysique et navigation spatiale, *Université Paris VII*, **2016**
 
 ### Bachelor's: Fundamental Physics
 > Licence de Physique Fondamentale, *Université Paris VII*, **2014**
 
-
-## Academic Bibliography
-The list of scientific publications, including my thesis, that I lead or contributed to,
-is maintained on [my orcid page
-(0000-0001-8629-7068)](https://orcid.org/0000-0001-8629-7068).
+### Preparatory classes
+> Physique & Science pour l'Ingénieur, *Lycée Raspail (Paris)*, 2013
+> Physique, Chimie  & Science pour l'Ingénieur, *Lycée Lavoisier (Paris)*, 2011
