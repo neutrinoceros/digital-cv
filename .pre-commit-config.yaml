@@ -12,12 +12,12 @@ repos:
   - id: end-of-file-fixer
 
 - repo: https://github.com/macisamuele/language-formatters-pre-commit-hooks
-  rev: v2.9.0
+  rev: v2.10.0
   hooks:
   - id: pretty-format-yaml
     args: [--autofix, --indent, '2']
 
 - repo: https://github.com/crate-ci/typos
-  rev: v1.16.2
+  rev: v1.16.10
   hooks:
   - id: typos
